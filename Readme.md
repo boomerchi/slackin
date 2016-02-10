@@ -3,6 +3,9 @@
 
 [http://slack.redux.io/badge.svg](https://redux.io)
 
+[![Redux Slack](http://slack.redux.io/badge.svg)](http://slack.redux.io)
+
+
 A little server that enables public access
 to a Slack server. Like Freenode, but on Slack.
 
