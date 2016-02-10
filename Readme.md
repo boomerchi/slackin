@@ -19,11 +19,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 ### Server
 
-<<<<<<< HEAD
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reduxframework/slackin/tree/0.5.0)
-=======
 #### Heroku
->>>>>>> upstream/master
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/0.8.2)
 
@@ -101,7 +97,7 @@ or for the large version, append `?large`:
 
 Done in Markdown this looks like:
 
-    [![Slack Status](https://slack.yourdomain.com/badge.svg)](https://yourdomain.com)
+    [![Slack Status](https://slack.redux.io/badge.svg)](https://redux.io)
 
 ### Landing page
 
