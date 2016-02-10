@@ -1,5 +1,6 @@
 
-# slackin
+# Redux slackin [Slack Status](https://slack.redux.io/badge.svg)
+
 
 A little server that enables public access
 to a Slack server. Like Freenode, but on Slack.
