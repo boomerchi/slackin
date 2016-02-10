@@ -1,5 +1,7 @@
 
-# Redux slackin [Slack Status](https://slack.redux.io/badge.svg)
+# Redux slackin 
+
+[Slack Status](http://slack.redux.io/badge.svg)
 
 
 A little server that enables public access
